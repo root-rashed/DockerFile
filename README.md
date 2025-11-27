@@ -1,4 +1,8 @@
-# 🐳 **Dockerfile Instructions Explained (With Examples)**
+**🐳 Dockerfile Language — The Complete Quick Guide**
+
+A Dockerfile is a script that tells Docker how to build an image.
+
+Every Dockerfile is made of instructions (UPPERCASE) followed by arguments.
 
 ## ✅ **1. FROM**
 
